@@ -1,0 +1,23 @@
+@media screen and (max-width : 560px){
+	.nav ul {
+		width: 100%;
+		background: #BC1142;
+	}
+	.nav ul li {
+		/*display: none;*/
+		display: none;
+		float: none;
+	}
+	.menu {
+		display: block;
+		color: #75a928;
+		font-size: 42px;
+		margin-right: 0.5em;
+		margin-top: 0.25em;
+		float: right;
+	}
+	.main {
+		width: 95%;
+	}
+	
+}
