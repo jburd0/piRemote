@@ -11,3 +11,7 @@ cd /var/www
 ```
 git clone https://github.com/johnburd/piRemote.git
 ```
+Then run setup.sh. (Note: You can move the piRemote directory to /var/www to make access easier.)
+```
+./setup.sh
+```
